@@ -1,0 +1,42 @@
+.sectionTwo{
+    display: flex;
+    flex-direction: column;
+      background-color: #222222;
+      margin:30px;
+      padding: 30px 30px;
+  }
+  #work{
+    text-decoration:none;
+     display: flex;
+     justify-content: center;
+     color:#e7decc;
+     font-family: 'roboto' sans-serif;
+     font-weight: bolder;
+ }
+
+ .cardSection{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+    }
+.cardLinks{
+        display: flex;
+        justify-content: space-around;
+        background-color: #222222;
+      }
+.card-body{
+        background-color: #e0ddd2;
+      }
+.card-text{
+        color:gray;
+      }
+
+.myProjects{
+    display: flex;
+    flex-direction: column;
+
+}
+.card{
+    width: 300px;
+}      

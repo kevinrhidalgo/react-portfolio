@@ -1,5 +1,5 @@
 import React from "react";
-
+import "../styles/ProjectCard.css"
 function Projects() {
   return (
     <article class="sectionTwo" id="myWork">

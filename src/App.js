@@ -1,8 +1,8 @@
 import React from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import NavTabs from "./Components/NavTabs";
-import Home from "./Components/pages/Home";
-import Projects from "./Components/pages/Projects";
+import Home from "../src/pages/Home";
+import Projects from "../src/pages/Projects";
 import Footer from "./Components/Footer/Footer";
 import Header from "./Components/Header/Header";
 
