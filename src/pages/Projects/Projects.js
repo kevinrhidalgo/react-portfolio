@@ -16,7 +16,7 @@ function Projects() {
 
     <div className="myProjects">  
     <div class="card">
-      <img class="card-img-top" src={dayplanner} alt="calander like frame with times"></img>
+      <img class="card-img-top" src={dayplanner} alt="Card image cap"></img>
       <div class="card-body">
         <h5 class="card-title">Day Planner</h5>
         <p class="card-text">Your Day planner, where you can create a planner for you day.</p>
@@ -29,7 +29,7 @@ function Projects() {
   
     
     <div class="card">
-      <img class="card-img-top" src={pwgenerator} alt="search button with screen that shows it"></img>
+      <img class="card-img-top" src={pwgenerator} alt="Card image cap"></img>
       <div class="card-body">
         <h5 class="card-title">Password Generator</h5>
         <p class="card-text">You can generate a needed password of choice for your next account.</p>
@@ -42,7 +42,7 @@ function Projects() {
    
     
     <div class="card">
-      <img class="card-img-top" src={jaunt} alt="a map with search engine on side"></img>
+      <img class="card-img-top" src={jaunt} alt="Card image cap"></img>
       <div class="card-body">
         <h5 class="card-title">Jaunt</h5>
         <p class="card-text">An all for one application where you can create a route with gas prices appeared based on where you are at.</p>
@@ -55,7 +55,7 @@ function Projects() {
  </div>   
  <div className="myProjects">
     <div class="card">
-      <img class="card-img-top" src={shelfi} alt="bookshelf with books on it"></img>
+      <img class="card-img-top" src={shelfi} alt="Card image cap"></img>
       <div class="card-body">
         <h5 class="card-title">Shelfi.</h5>
         <p class="card-text"> A library application where you can search for your books of choice in which you want to read and plan to read.</p>
@@ -67,7 +67,7 @@ function Projects() {
       </div>
 
       <div class="card">
-      <img class="card-img-top" src={underC} alt="construction sign"></img>
+      <img class="card-img-top" src={underC} alt="Card image cap"></img>
       <div class="card-body">
         <h5 class="card-title">Coming Soon!</h5>
         <p class="card-text">Under Construction.</p>
@@ -79,7 +79,7 @@ function Projects() {
     </div>
     
     <div class="card">
-      <img class="card-img-top" src={underC} alt="consruction sign"></img>
+      <img class="card-img-top" src={underC} alt="Card image cap"></img>
       <div class="card-body">
         <h5 class="card-title">Coming Soon!</h5>
         <p class="card-text">Under Construction.</p>
