@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles/About.css"
+import "../Home/About.css"
 import linkedn from "./linkedn.png"
 import email from "./IMG_0443.PNG"
 import phone from "./IMG_0444.PNG"
