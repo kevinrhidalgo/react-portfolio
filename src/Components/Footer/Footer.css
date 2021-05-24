@@ -1,0 +1,17 @@
+footer p {
+    font-family: poppins;
+    text-align:center;
+    color: white;
+    font-size: 20px;
+    float: center;
+    background-color: black;
+    width: 1400px;
+    height: 130px;
+    padding: 20px;   
+  }
+
+  img{
+    height: 100px;
+    width:100px;
+}
+  
