@@ -1,5 +1,10 @@
 import React from "react";
 import "../styles/About.css"
+import linkedn from "./linkedn.png"
+import email from "./IMG_0443.PNG"
+import phone from "./IMG_0444.PNG"
+import github from "./github.PNG"
+import ig from "./ig.PNG"
 
 function Home() {
   return (
@@ -24,7 +29,7 @@ function Home() {
       <li class="number" role="listitem">
         <div class="link-wrapper">
           <i class="fab fa-twitter" aria-hidden="true"></i>
-          <img class="contactList" src={"./images/linkedn.png"}></img>
+          <img class="contactList" src={linkedn}></img>
           <a href="https://www.linkedin.com/in/kevin-hidalgo-a6a725205/" aria-label="Linkedn profile">@kevin_hidalgo</a>
         </div>
       </li>
@@ -32,28 +37,28 @@ function Home() {
       <li class="number" role="listitem">
         <div class="link-wrapper">
           <i class="fab fa-email" aria-hidden="true"></i>
-          <img class="contactList" src={"./images/IMG_0443.PNG"}></img>
+          <img class="contactList" src={email}></img>
           <a href = "mailto: abc@example.com">kevinrhidalgo@yahoo.com</a>
         </div>
       </li>
       <li class="number" role="listitem">
         <div class="link-wrapper">
           <i class="fab fa-number" aria-hidden="true"></i>
-          <img class="contactList" src={"./images/IMG_0444.PNG"}></img>
+          <img class="contactList" src={phone}></img>
           <a href= "tel:" aria-label="Instagram profile">646.285.5696</a>
         </div>
       </li>
       <li class="number" role="listitem">
         <div class="link-wrapper">
           <i class="fab fa-github" aria-hidden="true"></i>
-          <img class="contactList" src={"./images/github.PNG"}></img>
+          <img class="contactList" src={github}></img>
           <a href="https://github.com/kevinrhidalgo" aria-label="GitHub profile">@kevinrhidalgo</a>
         </div>
       </li>
       <li class="number" role="listitem">
         <div class="link-wrapper">
           <i class="fab fa-instagram" aria-hidden="true"></i>
-          <img class="contactList" src={"./images/ig.PNG"}></img>
+          <img class="contactList" src={ig}></img>
           <a href="https://www.instagram.com/kevin.hidalgo/" aria-label="Instagram">@kevin.hidalgo</a>
         </div>
       </li>
