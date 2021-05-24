@@ -40,7 +40,7 @@ My professional portfolio built with React, is every web developers resource to 
   kevinrhidalgo@Yahoo.com 
 
   # URL
-
+https://kevinrhidalgo.github.io/react-portfolio/
  
 
  
