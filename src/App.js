@@ -4,6 +4,7 @@ import NavTabs from "./Components/NavTabs";
 import Home from "./Components/pages/Home";
 import Projects from "./Components/pages/Projects";
 import Footer from "./Components/Footer/Footer";
+import Header from "./Components/Header/Header";
 
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
     <Router>
       <div>
         <NavTabs />
+        <Header/>
         <Route exact path="/" component={Home} />
         <Route exact path="/projects" component={Projects} />
       </div>

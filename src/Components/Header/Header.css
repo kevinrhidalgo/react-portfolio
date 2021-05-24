@@ -1,0 +1,47 @@
+body{
+    background-image: url(https://miro.medium.com/max/1024/1*9WeJrBj6pp-qnGjRGg2NUw.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+header{
+    background-color:#222222;
+    height:350px;
+    color: #e7decc;
+    font-weight: bolder; 
+
+
+}
+nav{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+nav a{
+    font-size: 20px;
+    color:#e7decc;
+    text-decoration: none;
+    margin-left: 21px;
+    font-size: 20px;
+    display: inline;
+    flex-direction: row-reverse;
+  
+}
+.headerOne{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    flex-direction: row;
+    width: 1500px;
+    padding-right: 400px;
+    padding-left: 100px;
+   
+  
+}
+.headerOne img{
+    width: 400px;
+    height: 300px;
+}
+
+
+
