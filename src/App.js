@@ -11,14 +11,15 @@ function App() {
   return (
    
     <Router>
-      <div>
-        <NavTabs />
+      <NavTabs />
+      <div> 
         <Header/>
         <Route exact path="/" component={Home} />
         <Route exact path="/projects" component={Projects} />
       </div>
       <Footer/>
     </Router>
+    
   );
 }
 export default App;
